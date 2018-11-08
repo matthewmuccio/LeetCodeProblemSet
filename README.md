@@ -8,7 +8,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [ ] 4. Median of Two Sorted Arrays
 - [ ] 5. Longest Palindromic Substring
 - [ ] 6. ZigZag Conversion
-- [ ] 7. Reverse Integer
+- [x] 7. Reverse Integer
 - [ ] 8. String to Integer (atoi)
 - [ ] 9. Palindrome Number
 - [ ] 10. Regular Expression Matching
