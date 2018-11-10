@@ -10,7 +10,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [ ] 6. ZigZag Conversion
 - [x] 7. Reverse Integer
 - [ ] 8. String to Integer (atoi)
-- [ ] 9. Palindrome Number
+- [x] 9. Palindrome Number
 - [ ] 10. Regular Expression Matching
 - [ ] 11. Container With Most Water
 - [ ] 12. Integer to Roman
