@@ -27,7 +27,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [ ] 23. Merge k Sorted Lists
 - [ ] 24. Swap Nodes in Pairs
 - [ ] 25. Reverse Nodes in k-Group
-- [ ] 26. Remove Duplicates from Sorted Array
+- [x] 26. Remove Duplicates from Sorted Array
 - [ ] 27. Remove Element
 - [ ] 28. Implement strStr()
 - [ ] 29. Divide Two Integers
