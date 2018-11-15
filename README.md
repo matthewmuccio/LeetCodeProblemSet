@@ -29,7 +29,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [ ] 25. Reverse Nodes in k-Group
 - [x] 26. Remove Duplicates from Sorted Array
 - [x] 27. Remove Element
-- [ ] 28. Implement strStr()
+- [x] 28. Implement strStr()
 - [ ] 29. Divide Two Integers
 - [ ] 30. Substring with Concatenation of All Words
 - [ ] 31. Next Permutation
