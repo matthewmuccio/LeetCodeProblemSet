@@ -21,7 +21,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [ ] 17. Letter Combinations of a Phone Number
 - [ ] 18. 4Sum
 - [ ] 19. Remove Nth Node From End of List
-- [ ] 20. Valid Parentheses
+- [x] 20. Valid Parentheses
 - [ ] 21. Merge Two Sorted Lists
 - [ ] 22. Generate Parentheses
 - [ ] 23. Merge k Sorted Lists
