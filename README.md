@@ -7,7 +7,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 3. Longest Substring Without Repeating Characters
 - [ ] 4. Median of Two Sorted Arrays
 - [ ] 5. Longest Palindromic Substring
-- [ ] 6. ZigZag Conversion
+- [x] 6. ZigZag Conversion
 - [x] 7. Reverse Integer
 - [ ] 8. String to Integer (atoi)
 - [x] 9. Palindrome Number
