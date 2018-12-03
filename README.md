@@ -15,7 +15,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 11. Container With Most Water
 - [x] 12. Integer to Roman
 - [x] 13. Roman to Integer
-- [ ] 14. Longest Common Prefix
+- [x] 14. Longest Common Prefix
 - [x] 15. 3Sum
 - [ ] 16. 3Sum Closest
 - [x] 17. Letter Combinations of a Phone Number
