@@ -19,7 +19,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 15. 3Sum
 - [x] 16. 3Sum Closest
 - [x] 17. Letter Combinations of a Phone Number
-- [ ] 18. 4Sum
+- [x] 18. 4Sum
 - [ ] 19. Remove Nth Node From End of List
 - [x] 20. Valid Parentheses
 - [ ] 21. Merge Two Sorted Lists
