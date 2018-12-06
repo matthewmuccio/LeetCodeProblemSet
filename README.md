@@ -22,7 +22,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 18. 4Sum
 - [x] 19. Remove Nth Node From End of List
 - [x] 20. Valid Parentheses
-- [ ] 21. Merge Two Sorted Lists
+- [x] 21. Merge Two Sorted Lists
 - [ ] 22. Generate Parentheses
 - [ ] 23. Merge k Sorted Lists
 - [ ] 24. Swap Nodes in Pairs
