@@ -25,7 +25,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 21. Merge Two Sorted Lists
 - [x] 22. Generate Parentheses
 - [ ] 23. Merge k Sorted Lists
-- [ ] 24. Swap Nodes in Pairs
+- [x] 24. Swap Nodes in Pairs
 - [ ] 25. Reverse Nodes in k-Group
 - [x] 26. Remove Duplicates from Sorted Array
 - [x] 27. Remove Element
