@@ -32,7 +32,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 28. Implement strStr()
 - [ ] 29. Divide Two Integers
 - [ ] 30. Substring with Concatenation of All Words
-- [ ] 31. Next Permutation
+- [x] 31. Next Permutation
 - [ ] 32. Longest Valid Parentheses
 - [ ] 33. Search in Rotated Sorted Array
 - [ ] 34. Find First and Last Position of Element in Sorted Array
