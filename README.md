@@ -34,7 +34,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [ ] 30. Substring with Concatenation of All Words
 - [x] 31. Next Permutation
 - [ ] 32. Longest Valid Parentheses
-- [ ] 33. Search in Rotated Sorted Array
+- [x] 33. Search in Rotated Sorted Array
 - [ ] 34. Find First and Last Position of Element in Sorted Array
 - [x] 35. Search Insert Position
 - [ ] 36. Valid Sudoku
