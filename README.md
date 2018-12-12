@@ -35,7 +35,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 31. Next Permutation
 - [ ] 32. Longest Valid Parentheses
 - [x] 33. Search in Rotated Sorted Array
-- [ ] 34. Find First and Last Position of Element in Sorted Array
+- [x] 34. Find First and Last Position of Element in Sorted Array
 - [x] 35. Search Insert Position
 - [ ] 36. Valid Sudoku
 - [ ] 37. Sudoku Solver
