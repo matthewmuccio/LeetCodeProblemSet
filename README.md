@@ -37,7 +37,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 33. Search in Rotated Sorted Array
 - [x] 34. Find First and Last Position of Element in Sorted Array
 - [x] 35. Search Insert Position
-- [ ] 36. Valid Sudoku
+- [x] 36. Valid Sudoku
 - [ ] 37. Sudoku Solver
 - [ ] 38. Count and Say
 - [ ] 39. Combination Sum
