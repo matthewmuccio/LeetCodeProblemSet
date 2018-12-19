@@ -40,7 +40,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 36. Valid Sudoku
 - [ ] 37. Sudoku Solver
 - [x] 38. Count and Say
-- [ ] 39. Combination Sum
+- [x] 39. Combination Sum
 - [ ] 40. Combination Sum II
 - [ ] 41. First Missing Positive
 - [ ] 42. Trapping Rain Water
