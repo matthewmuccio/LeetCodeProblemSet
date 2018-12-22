@@ -41,7 +41,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [ ] 37. Sudoku Solver
 - [x] 38. Count and Say
 - [x] 39. Combination Sum
-- [ ] 40. Combination Sum II
+- [x] 40. Combination Sum II
 - [ ] 41. First Missing Positive
 - [ ] 42. Trapping Rain Water
 - [x] 43. Multiply Strings
