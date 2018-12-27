@@ -48,7 +48,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [ ] 44. Wildcard Matching
 - [ ] 45. Jump Game II
 - [x] 46. Permutations
-- [ ] 47. Permutations II
+- [x] 47. Permutations II
 - [ ] 48. Rotate Image
 - [ ] 49. Group Anagrams
 - [ ] 50. Pow(x, n)
