@@ -49,6 +49,6 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [ ] 45. Jump Game II
 - [x] 46. Permutations
 - [x] 47. Permutations II
-- [ ] 48. Rotate Image
+- [x] 48. Rotate Image
 - [ ] 49. Group Anagrams
 - [ ] 50. Pow(x, n)
