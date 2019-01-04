@@ -51,4 +51,4 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 47. Permutations II
 - [x] 48. Rotate Image
 - [x] 49. Group Anagrams
-- [ ] 50. Pow(x, n)
+- [x] 50. Pow(x, n)
