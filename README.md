@@ -11,7 +11,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 7. Reverse Integer
 - [x] 8. String to Integer (atoi)
 - [x] 9. Palindrome Number
-- [ ] 10. Regular Expression Matching
+- [x] 10. Regular Expression Matching
 - [x] 11. Container With Most Water
 - [x] 12. Integer to Roman
 - [x] 13. Roman to Integer
