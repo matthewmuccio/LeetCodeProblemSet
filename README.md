@@ -31,7 +31,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 27. Remove Element
 - [x] 28. Implement strStr()
 - [x] 29. Divide Two Integers
-- [ ] 30. Substring with Concatenation of All Words
+- [x] 30. Substring with Concatenation of All Words
 - [x] 31. Next Permutation
 - [ ] 32. Longest Valid Parentheses
 - [x] 33. Search in Rotated Sorted Array
