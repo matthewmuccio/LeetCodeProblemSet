@@ -33,7 +33,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 29. Divide Two Integers
 - [x] 30. Substring with Concatenation of All Words
 - [x] 31. Next Permutation
-- [ ] 32. Longest Valid Parentheses
+- [x] 32. Longest Valid Parentheses
 - [x] 33. Search in Rotated Sorted Array
 - [x] 34. Find First and Last Position of Element in Sorted Array
 - [x] 35. Search Insert Position
