@@ -38,7 +38,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 34. Find First and Last Position of Element in Sorted Array
 - [x] 35. Search Insert Position
 - [x] 36. Valid Sudoku
-- [ ] 37. Sudoku Solver
+- [x] 37. Sudoku Solver
 - [x] 38. Count and Say
 - [x] 39. Combination Sum
 - [x] 40. Combination Sum II
