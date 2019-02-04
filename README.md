@@ -45,7 +45,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 41. First Missing Positive
 - [x] 42. Trapping Rain Water
 - [x] 43. Multiply Strings
-- [ ] 44. Wildcard Matching
+- [x] 44. Wildcard Matching
 - [ ] 45. Jump Game II
 - [x] 46. Permutations
 - [x] 47. Permutations II
