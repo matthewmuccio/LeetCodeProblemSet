@@ -43,7 +43,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 39. Combination Sum
 - [x] 40. Combination Sum II
 - [x] 41. First Missing Positive
-- [ ] 42. Trapping Rain Water
+- [x] 42. Trapping Rain Water
 - [x] 43. Multiply Strings
 - [ ] 44. Wildcard Matching
 - [ ] 45. Jump Game II
