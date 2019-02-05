@@ -46,7 +46,7 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 42. Trapping Rain Water
 - [x] 43. Multiply Strings
 - [x] 44. Wildcard Matching
-- [ ] 45. Jump Game II
+- [x] 45. Jump Game II
 - [x] 46. Permutations
 - [x] 47. Permutations II
 - [x] 48. Rotate Image
