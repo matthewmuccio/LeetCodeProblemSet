@@ -53,3 +53,4 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 49. Group Anagrams
 - [x] 50. Pow(x, n)
 - [x] 51. N-Queens
+- [x] 52. N-Queens II
