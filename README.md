@@ -57,3 +57,4 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 53. Maximum Subarray
 - [x] 54. Spiral Order
 - [x] 55. Jump Game
+- [x] 56. Merge Intervals
