@@ -68,3 +68,4 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 64. Minimum Path Sum
 - [x] 65. Valid Number
 - [x] 66. Plus One
+- [x] 67. Add Binary
