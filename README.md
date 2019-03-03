@@ -71,3 +71,4 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 67. Add Binary
 - [x] 68. Text Justification
 - [x] 69. Sqrt(x)
+- [x] 70. Climbing Stairs
