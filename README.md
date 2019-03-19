@@ -75,3 +75,4 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 71. Simplify Path
 - [x] 72. Edit Distance
 - [x] 73. Set Matrix Zeroes
+- [x] 74. Search a 2D Matrix
