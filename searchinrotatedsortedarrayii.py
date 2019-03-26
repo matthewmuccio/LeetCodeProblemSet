@@ -1,0 +1,39 @@
+#!/usr/bin/env python3
+
+
+class Solution(object):
+    def search(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: bool
+        """
+        l = 0
+        r = len(nums) - 1
+        
+        while l <= r:
+            mid = l + (r - l) // 2
+            if nums[mid] == target: return True
+            
+            while l < mid and nums[l] == nums[mid]: l += 1
+                
+            if nums[l] <= nums[mid]:
+                if nums[l] <= target < nums[mid]:
+                    r = mid - 1
+                else:
+                    l = mid + 1
+            else:
+                if nums[mid] < target <= nums[r]:
+                    l = mid + 1
+                else:
+                    r = mid - 1
+                    
+        return False
+
+
+if __name__ == "__main__":
+    s = Solution()
+    nums = [2, 5, 6, 0, 0, 1, 2]
+    target = 0
+    result = s.search(nums, target)
+    print(result)
