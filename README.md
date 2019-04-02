@@ -86,3 +86,4 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 82. Remove Duplicates from Sorted List II
 - [x] 83. Remove Duplicates from Sorted List
 - [x] 84. Largest Rectangle in Histogram
+- [x] 85. Maximal Rectangle
