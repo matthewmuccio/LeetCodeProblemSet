@@ -88,3 +88,4 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 84. Largest Rectangle in Histogram
 - [x] 85. Maximal Rectangle
 - [x] 86. Partition List
+- [x] 87. Scramble String
