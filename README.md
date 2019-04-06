@@ -89,3 +89,4 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 85. Maximal Rectangle
 - [x] 86. Partition List
 - [x] 87. Scramble String
+- [x] 88. Merge Sorted Array
