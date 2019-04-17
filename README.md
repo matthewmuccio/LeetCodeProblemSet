@@ -97,3 +97,4 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 93. Restore IP Addresses
 - [x] 94. Binary Tree Inorder Traversal
 - [x] 95. Unique Binary Search Trees II
+- [x] 96. Unique Binary Search Trees
