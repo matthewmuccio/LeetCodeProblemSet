@@ -99,3 +99,4 @@ LeetCode All Problem Set in Python 3 (November 2018-)
 - [x] 95. Unique Binary Search Trees II
 - [x] 96. Unique Binary Search Trees
 - [x] 97. Interleaving String
+- [x] 98. Validate Binary Search Tree
